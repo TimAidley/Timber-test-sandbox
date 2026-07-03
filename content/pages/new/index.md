@@ -1,0 +1,1 @@
+Recorded fixture content B.
