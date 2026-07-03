@@ -1,1 +1,1 @@
-Recorded fixture content A.
+seed
